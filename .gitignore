@@ -12,3 +12,11 @@ docs/
 
 # Dotenv file
 .env
+
+
+health_factor/.DS_Store
+health_factor/Cargo.lock
+health_factor/methods/guest/Cargo.lock
+health_factor/target/
+
+proof_verification/node_modules/
