@@ -6,5 +6,8 @@ edition = "2021"
 [build-dependencies]
 risc0-build = { version = "1.2.2" }
 
+[dependencies]
+
+
 [package.metadata.risc0]
 methods = ["guest"]
